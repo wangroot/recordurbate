@@ -1,2 +1,2 @@
-# recordurbate
-A chaturbate bot to record streams
+# Recordurbate
+A Chaturbate bot to record streams
