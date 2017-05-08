@@ -14,6 +14,7 @@ This is a bot/script/thing to automatically record chaturbate live streams.
 
 ### Installation
 Copy all files to the web directoy, add cron job to call startRecord.php every interval (e.g. 1 minute). Ensure that the directory has read and write permissions. Also startRecord.php and record.php need execute permission.
+
 You will also need a Chaturbate account inorder to get an API URL. This URL needs to put in the general.json config file, in the value for key "apiURL".
 
 ### TODO:
