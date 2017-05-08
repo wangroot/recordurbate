@@ -1,5 +1,5 @@
 # Recordurbate
-The act of recording a chaturbate livestream
+> The act of recording a chaturbate livestream
 
 ### About
 This is a bot/script/thing to automatically record chaturbate live streams. 
