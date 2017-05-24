@@ -23,25 +23,25 @@ The setup will ask you for a save directory. Please ensure that what you enter h
 ## Usage
 In the following commands, [NAME] should be replaced with the username of the streamer.
 
-####Add
+#### Add
 
 ```
 ./recordurbate.php add [NAME]
 ```
 
-####Remove
+#### Remove
 
 ```
 ./recordurbate.php rm [NAME]
 ```
 
-####Enabled
+#### Enabled
 
 ```
 ./recordurbate.php en [NAME]
 ```
 
-####Disable
+#### Disable
 
 ```
 ./recordurbate.php dis [NAME]
